@@ -15,3 +15,4 @@ if __name__ == "__main__":
     command = input("Enter command: ")
     args = parse_args(command)
     print(args)
+    
